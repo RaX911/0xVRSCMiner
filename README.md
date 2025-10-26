@@ -15,6 +15,10 @@ git clone https://github.com/RaX911/0xVRSCMiner.git
 ```
 
 ```
+0xVRSCMiner
+```
+
+```
 chmod +x ccminer run
 ```
 
