@@ -19,7 +19,7 @@ git clone https://github.com/RaX911/0xVRSCMiner.git
 ```
 
 ```
-chmod +x ccminer run
+chmod +x ccminer run ChangeX
 ```
 
 ```
