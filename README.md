@@ -22,6 +22,11 @@ git clone https://github.com/RaX911/0xVRSCMiner.git
 chmod +x ccminer run ChangeX
 ```
 
+anda bisa melihat exchange crypto VRSC TO IDR Dengan Run Di Bawah ini. Hitunglah PerCoint VRSC TO IDR mu pada Program ChangeX dengan contoh di bawah ini:
+```
+ChangeX
+```
+
 ```
 ./run
 ```
