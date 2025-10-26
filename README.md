@@ -22,14 +22,15 @@ cd 0xVRSCMiner
 chmod +x ccminer run ChangeX
 ```
 
+```
+./run
+```
+
 anda bisa melihat exchange crypto VRSC TO IDR Dengan Run Di Bawah ini. Hitunglah PerCoint VRSC TO IDR mu pada Program ChangeX dengan contoh di bawah ini:
 ```
 ./ChangeX
 ```
 
-```
-./run
-```
 
 Donate :
 VRSC 
